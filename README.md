@@ -1,1 +1,1 @@
-# DBMS-MINI-PROJECT-2021-2022
+# Java and MYSQL (DBMS Mini Project)
