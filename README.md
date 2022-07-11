@@ -1,1 +1,1 @@
-# Java and MYSQL (DBMS Mini Project)
+#Airline Management Java and MYSQL (DBMS Mini Project)
